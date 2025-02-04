@@ -101,8 +101,8 @@ Essential Tools for Data Science (Week 4)
 
 Advanced data wrangling in R (week 5)
 
-* 2/3/25: RMarkdown; Data Structures (B554)
-* 2/5/25: The tidyverse; Tidydata wrangling (B554)
+* 2/3/25: RMarkdown; Data Structures (B554)(In Person)
+* 2/5/25: The tidyverse; Tidydata wrangling (B554)(In Person)s
 
 Advanced R Tools (week 6)
 
